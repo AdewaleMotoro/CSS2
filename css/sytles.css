@@ -1,0 +1,53 @@
+body {
+    margin: 0%;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif sans-serif;
+}
+
+h1{
+    
+    
+    width: 10%;
+    margin: 0 auto ;
+}
+
+
+.top-container{
+    background-color: #FEFBE9;
+    padding-top: 100px;
+    
+    
+    
+}
+
+.imaget{
+    position: relative;
+    left: 200px;
+}
+.middle-contaner{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    
+    
+    
+}
+
+.bottom-cotainer{
+
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+  
+}
+
+.bottom-cloud{
+    position: relative;
+    bottom: 20px;
+    right: 400px;
+}
+
+.top-cloud{
+    position: relative;
+    left: 200px;
+}
