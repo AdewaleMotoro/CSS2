@@ -5,12 +5,24 @@ body {
 }
 
 h1{
-    
-    
-    width: 10%;
-    margin: 0 auto ;
+    color: #537FE7;
+    font-size: 562.5%;
+    margin: 50px auto ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+
+h2{
+    color: #537FE7;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 2.5rem;
+
+}
+
+h3{
+color: #537FE7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 .top-container{
     background-color: #FEFBE9;
@@ -51,3 +63,4 @@ h1{
     position: relative;
     left: 200px;
 }
+
