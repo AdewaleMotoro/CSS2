@@ -24,6 +24,23 @@ color: #537FE7;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+
+.cold{
+width: 25%;
+}
+.phone{
+width: 25%;
+}
+.mato{
+width: 25%;
+}
+
 .top-container{
     background-color: #FEFBE9;
     padding-top: 100px;
